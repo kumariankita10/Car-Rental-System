@@ -12,12 +12,12 @@ Features:
 --Calculating rental prices based on different car types and durations.
 -- Efficiently managing customers, cars, and rentals in the system.
 
-Using ArrayList to store the data
-Implementing all 4 Pillars of OOPS
-using 4 class
-*Car
-*Customer
-*Rental
-*Car Rental System
+*Using ArrayList to store the data
+*Implementing all 4 Pillars of OOPS
+*using 4 class
+ --Car
+ --Customer
+--Rental
+--Car Rental System
 
 
